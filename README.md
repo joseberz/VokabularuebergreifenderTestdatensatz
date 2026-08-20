@@ -53,11 +53,13 @@ Für jeden der drei Datensätze (`PC59_novel`, `IDD_novel`, `NYU_novel`) gilt de
 
 ### Originalbilder beschaffen
 
-Da die Originalbilder aus Lizenzgründen nicht mitgeliefert werden (siehe unten), müssen sie vor der Nutzung selbst besorgt und lokal in die passenden `image/<Klassenordner>/` gelegt werden:
+Da die Originalbilder aus Lizenzgründen nicht mitgeliefert werden (siehe unten), müssen sie vor der Nutzung selbst besorgt werden:
 
 1. **PC59 (PASCAL-Context)**: Bilder über die offizielle PASCAL-VOC-2010-/PASCAL-Context-Distribution beziehen.
 2. **IDD**: Account unter [idd.insaan.iiit.ac.in](https://idd.insaan.iiit.ac.in/) registrieren, Lizenzbedingungen akzeptieren, Segmentation-Dataset herunterladen.
 3. **NYU Depth V2**: Bilder über die offizielle Projektseite ([cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)) beziehen.
+
+Der Ablagepfad der Originalbilder sollte der von detectron2 festgelegte Datensatz-Ordner sein.
 
 ### Originalbilder ins Repository kopieren
 
