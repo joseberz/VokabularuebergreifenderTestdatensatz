@@ -1,0 +1,6 @@
+leftImg8bit/val/497/0001120_leftImg8bit.png
+leftImg8bit/val/497/0008626_leftImg8bit.png
+leftImg8bit/val/497/0009741_leftImg8bit.png
+leftImg8bit/val/167/019604_leftImg8bit.png
+leftImg8bit/val/412/frame0004_leftImg8bit.jpg
+leftImg8bit/val/412/frame8799_leftImg8bit.png

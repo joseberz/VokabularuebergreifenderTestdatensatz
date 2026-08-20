@@ -1,0 +1,13 @@
+leftImg8bit/val/3/003118_leftImg8bit.png
+leftImg8bit/val/516/0004888_leftImg8bit.png
+leftImg8bit/val/420/0005923_leftImg8bit.png
+leftImg8bit/val/167/005945_leftImg8bit.png
+leftImg8bit/val/420/0008748_leftImg8bit.png
+leftImg8bit/val/516/0011940_leftImg8bit.jpg
+leftImg8bit/val/21/304409_leftImg8bit.png
+leftImg8bit/val/21/512401_leftImg8bit.png
+leftImg8bit/val/66/568321_leftImg8bit.png
+leftImg8bit/val/21/648225_leftImg8bit.png
+leftImg8bit/val/62/683966_leftImg8bit.png
+leftImg8bit/val/21/704880_leftImg8bit.png
+leftImg8bit/val/21/905457_leftImg8bit.png
